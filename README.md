@@ -1,2 +1,4 @@
 # link-protect-page-v3.0.1
-Link Protect v3.0.1 phiên bản giống anlink.top dành cho Page Facebook! (cải thiện hơn so với v3.0.0)
+Vui lòng chọn ngôn ngữ tương thích với quốc gia của bạn / Please select the language that best fits your country
+
+View details: {{connect_j2team_post}}
