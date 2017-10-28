@@ -194,7 +194,7 @@ if(isset($_SESSION['facebook_access_token'])): ?>
 <label for="password" class="col-sm-2 control-label">Password Link</label>
 <div class="col-sm-10">
 <input type="password" class="form-control" id="pass" name="pass" placeholder="Password to unlock link">
-<br />Để trống nếu không đặt
+<br />Leave blank if not set
 </div>
 </div>
 <div class="form-group">
