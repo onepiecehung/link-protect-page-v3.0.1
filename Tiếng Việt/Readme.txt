@@ -8,7 +8,7 @@
 3. Vào http://domain.com/_system/admin điền
 Tài khoản: vynghia
 Mật khẩu: nghiabestgay2k2
-Ở trên trang có các mục đích để bạn lựa chọn [Quản lý liên kết/Tạo liên kết/Đăng xuất]
+Ở trên trang có các mục đích để bạn lựa chọn [Thông tin quản trị/Quản lý liên kết/Tạo liên kết/Đăng xuất]
 
 ---
 Tác giả: Vy Nghĩa (Nghia is Gay)
